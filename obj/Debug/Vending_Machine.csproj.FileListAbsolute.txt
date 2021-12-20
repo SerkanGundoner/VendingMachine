@@ -1,0 +1,8 @@
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.AssemblyReference.cache
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.csproj.CoreCompileInputs.cache
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe.config
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.exe
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\bin\Debug\Vending_Machine.pdb
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.exe
+C:\Users\srkn_\source\repos\Vending_Machine\Vending_Machine\obj\Debug\Vending_Machine.pdb
